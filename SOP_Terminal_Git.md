@@ -10,6 +10,7 @@
 * `mkdir [folder]` : Make a new folder/rack.
 * `mv [old_name] [new_name]` : Move or rename a file.
 * `cat [file]` : Look at the contents of a file.
+*  `code .` : Opens the VS Code editor in the current room.
 
 ## 3. Filtering Data
 * `sls "word" [file]` : Search inside a file for a specific word (like "PASS").
